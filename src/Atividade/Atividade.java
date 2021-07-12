@@ -4,7 +4,7 @@ public class Atividade {
 
     public static void main(String[] args) {
 
-        //    1    System.out.println("alo mundo de merda, kkk q odio");
+        //    1    System.out.println("Ola mundo");
 
         //    2   int numero = 69;
         //        System.out.println("O numero informado foi : " + numero);
@@ -19,8 +19,9 @@ public class Atividade {
         //        int nota4 = 5;
         //        System.out.println((nota1 + nota2 + nota3 + nota4) /4);
 
-        float metros = 2.67f;
-        System.out.println("Essa medida em centimetros é : " + metros*100 );
+        //    5   float metros = 2.67f;
+        //        System.out.println("Essa medida em centimetros é : " + metros*100 );
+
 
 
     }
