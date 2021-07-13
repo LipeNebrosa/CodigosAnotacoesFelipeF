@@ -23,7 +23,6 @@ public class Atividade {
         //        System.out.println("Essa medida em centimetros é : " + metros*100 );
 
         //    6   float raio = 4.37f;
-        //        float area;
         //        System.out.println("A area deste circulo é : " + (raio * raio) * 3.14);
 
     }
