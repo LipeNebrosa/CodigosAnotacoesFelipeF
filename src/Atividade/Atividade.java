@@ -25,5 +25,8 @@ public class Atividade {
         //    6   float raio = 4.37f;
         //        System.out.println("A area deste circulo é : " + (raio * raio) * 3.14);
 
+        // 8  int c;
+        // int f = 50;
+      //  System.out.println( "a temperatura em celsius é : " + (c = 5 * (f - 32) /9));
     }
 }
