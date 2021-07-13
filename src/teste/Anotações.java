@@ -1,6 +1,6 @@
 package teste;
 
-class Teste {
+class Anotacoes {
 
     public static void main(String[] args) {
         // ("sout + TAB" para "System.out.printl0n")
