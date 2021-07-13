@@ -22,6 +22,5 @@ public class Atividade {
         float metros = 2.67f;
         System.out.println("Essa medida em centimetros é : " + metros*100 );
 
-
     }
 }
