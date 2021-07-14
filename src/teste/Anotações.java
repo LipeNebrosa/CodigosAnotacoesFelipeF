@@ -1,6 +1,6 @@
 package teste;
 
-class Teste {
+class Anotacoes {
 
     public static void main(String[] args) {
         // ("sout + TAB" para "System.out.printl0n")
@@ -47,6 +47,7 @@ class Teste {
         //        double absoluteZeroInCelsius = 0.0000000001d;
         //        char regularU = 'u';                          // variavel que suporta caracteres.
         //        char accentedU = '\u00DA';                    // Ú
+        //        string blabla = blabal                        // texto ?
         //        boolean iLoveJava = true;                     // boolean suporta 'true' ou 'false' apenas.
         
         //        int firstValue = 100;

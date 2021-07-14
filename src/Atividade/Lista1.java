@@ -1,6 +1,8 @@
 package Atividade;
 
-public class Atividade {
+import java.util.Scanner;
+
+public class Lista1 {
 
     public static void main(String[] args) {
 
@@ -22,12 +24,11 @@ public class Atividade {
 //            5-float metros = 2.67f;
 //              System.out.println("Essa medida em centimetros é : " + metros*100 );
 
-
-//            6-Scanner scan = new Scanner(System.in);
-//              System.out.println("Qual a area do circulo?");
-//              double raio = scan.nextDouble();
-//              double area = Math.PI * Math.pow(raio, 2);
-//              System.out.println(area);
+//            Scanner scan = new Scanner(System.in);
+//            System.out.println("Qual a area do circulo?");
+//            double raio = scan.nextDouble();
+//            double area = Math.PI * Math.pow(raio, 2);
+//            System.out.println(area);
 
 
 //            7-Scanner Scan = new Scanner(System.in);
