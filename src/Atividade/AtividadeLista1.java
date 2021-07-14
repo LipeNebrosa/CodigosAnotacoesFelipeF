@@ -2,8 +2,6 @@ package Atividade;
 
 public class AtividadeLista1 {
 
-import java.util.Scanner;
-
 public static class Lista1 {
 
     public static void main(String[] args) {
