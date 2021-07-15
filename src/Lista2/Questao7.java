@@ -7,16 +7,17 @@ public class Questao7 {
     public static void main(String[] args) {
 
         Scanner Scan1 = new Scanner(System.in);
+
         System.out.println("1º numero: ");
         double num1 = Scan1.nextDouble();
 
-        Scanner Scan2 = new Scanner(System.in);
         System.out.println("2º numero: ");
-        double num2 = Scan2.nextDouble();
+        double num2 = Scan1.nextDouble();
 
-        Scanner Scan3 = new Scanner(System.in);
         System.out.println("3º numero: ");
-        double num3 = Scan3.nextDouble();
+        double num3 = Scan1.nextDouble();
+
+
 
         if ((num1 > num2) & (num1 > num3)){
             System.out.println(num1 + " é o maior.");
