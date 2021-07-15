@@ -10,23 +10,23 @@ public class Questao4 {
         System.out.println("Informe a letra");
         String letra = Scan.next();
 
-        if ("a".equalsIgnoreCase(letra)) {
-            System.out.println("A letra é uma vogal!");
-        }
-        if ("e".equalsIgnoreCase(letra)) {
-            System.out.println("A letra é uma vogal!");
-        }
-        if ("i".equalsIgnoreCase(letra)) {
-            System.out.println("A letra é uma vogal!");
-        }
-        if ("o".equalsIgnoreCase(letra)) {
-            System.out.println("A letra é uma vogal!");
-        }
-        if ("u".equalsIgnoreCase(letra)) {
-            System.out.println("A letra é uma vogal!");
-        } else {
-            System.out.println("É uma consoante!");
-        }
+       switch (letra){
+           case "a":
+           case "e":
+           case "i":
+           case "o":
+           case "u":
+           case "A":
+           case "E":
+           case "I":
+           case "O":
+           case "U":
+               System.out.println("A letra é uma vogal!");
+               break;
+           default:
+               System.out.println("A letra é uma consoante!");
+
+       }
 
 
     }

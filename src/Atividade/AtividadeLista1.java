@@ -2,9 +2,9 @@ package Atividade;
 
 public class AtividadeLista1 {
 
-public static class Lista1 {
+    public static class Lista1 {
 
-    public static void main(String[] args) {
+        public static void main(String[] args) {
 
 //           1-System.out.println("alo mundo de merda, kkk q odio");
 //
@@ -57,5 +57,6 @@ public static class Lista1 {
 //               System.out.println("Qual a temperatura em graus  Celsius?");
 //               float temp = Scan.nextFloat();
 //               System.out.println((temp*1.8)+32);
+        }
     }
 }
