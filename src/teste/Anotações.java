@@ -49,7 +49,6 @@ class Anotacoes {
         //        char accentedU = '\u00DA';                    // Ú
         //        string blabla = blabal                        // texto ?
         //        boolean iLoveJava = true;                     // boolean suporta 'true' ou 'false' apenas.
-        //        string = bla bla                              // string = texto
 
         //ATALHOS
         // ctrl + alt + L     //corrige o codigo
