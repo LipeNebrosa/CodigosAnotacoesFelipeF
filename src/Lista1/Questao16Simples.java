@@ -13,7 +13,7 @@ public class Questao16Simples {
         double litros = metrosQuad / 3;
         double latas = litros / 18;
 
-        int latasC = (int) Math.round(latas);
+        int latasC = (int) Math.ceil(latas);
 
         System.out.println("Você precisará de " + latasC + " latas.");
         System.out.println("Total: R$" + (latasC * 80));

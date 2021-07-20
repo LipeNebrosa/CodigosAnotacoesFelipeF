@@ -109,17 +109,24 @@ class Anotacoes {
         //        if ( a > b & b > c )  //para usar "ou" use "|"
         //            System.out.println("A é maior que C");
 
-        int v1 = 4, v2 = 12;
-        final int diff;
-        if (v1 > v2 ) {  // para o java executar varias linhas como um comando usa-se "{ }"
-            diff = v1 - v2;
-            System.out.println("V1 é maior que V2, diferença = " + diff);
-        }
-        else {
-            diff = v2 - v1;
-            System.out.println("V1 é menor que V2, diferença = " + diff);
-        }
+        //        int v1 = 4, v2 = 12;
+        //        final int diff;
+        //        if (v1 > v2 ) {  // para o java executar varias linhas como um comando usa-se "{ }"
+        //            diff = v1 - v2;
+        //            System.out.println("V1 é maior que V2, diferença = " + diff);
+        //        }
+        //        else {
+        //            diff = v2 - v1;
+        //            System.out.println("V1 é menor que V2, diferença = " + diff);
+        //        }
 
+
+
+        /////////////////////////////////////////////////
+        //   Comandos de arrendodamento:
+
+        //   Math.round ();      // Arredonda os numero aproximando.
+        //   Math.ceil ();       // Arredonda os numeros para o maior.
     }
     
 }
