@@ -32,13 +32,13 @@ public class Questao17 {
 
         double galoes18Pconta = litrosPconta / 18;
 
-        double qtGaloes18Arrendodado = Math.floor(galoes18Pconta);   // Quantidade de galões
+        int qtGaloes18Arrendodado = (int) Math.floor(galoes18Pconta);   // Quantidade de galões
 
         double litrosPLatas3 = litrosPconta - (qtGaloes18Arrendodado * 18);
 
         double qtLatas3 = (litrosPLatas3 / 3.6);
 
-        double qtLatas3Arrendondado = Math.ceil(qtLatas3);           // Quantidade de latas
+        int qtLatas3Arrendondado = (int) Math.ceil(qtLatas3);           // Quantidade de latas
 
         System.out.println("Você precisará de "+ qtGaloes18Arrendodado + " Galões de 18 litros, e " + qtLatas3Arrendondado+
                 " Latas de 3,6 Litros");
