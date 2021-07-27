@@ -43,7 +43,7 @@ class Anotacoes {
         //        short feetInAMile = 5280;
         //        int milesToSun = 92960000;
         //        long milesInALightYear = 5879000000000L;      // long necessita de um "L" no final.
-        //        float killometersInAMarathon = 42.195f;       // float suporta numeros com pontos e necessita de "f" no final     .   
+        //        float killometersInAMarathon = 42.195f;       // float suporta numeros com pontos e necessita de "f" no final.
         //        double absoluteZeroInCelsius = 0.0000000001d;
         //        char regularU = 'u';                          // variavel que suporta caracteres.
         //        char accentedU = '\u00DA';                    // Ú

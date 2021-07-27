@@ -1,7 +1,5 @@
 package Lista3;
 
-import jdk.nashorn.internal.ir.WhileNode;
-
 import java.util.Scanner;
 
 public class Questao1 {
